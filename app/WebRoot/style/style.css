@@ -1,0 +1,178 @@
+*
+{
+margin:0;
+padding:0;
+}
+html{
+background: url(http://payload1.cargocollective.com/1/2/72364/2322507/prev_14_680.jpg);
+background-size: 100%;
+background-attachment: fixed;
+}
+body 
+{ 
+font: .8em Georgia, "Times New Roman", Serif; 
+color: #777; 
+width: 100%;
+}
+
+.user
+{
+margin-left:15px;
+margin-top: 30px;
+}
+
+.pass
+{
+margin-top: 20px;
+margin-left:90px;
+}
+
+a 
+{ 
+color: #000;
+text-decoration: none; 
+}
+	
+a:hover 
+{ 
+color: #8F0000; 
+}
+	
+p 
+{ 
+line-height: 1.7em;
+margin: 0 0 15px; 
+}
+ 
+.x 
+{ 
+clear: both; 
+}
+
+h1 
+{ 
+float: center; 
+color:#000;
+font-size: 3em; 
+font-weight: normal; 
+font-style: italic; 
+padding: 0 0 25px 10px; 
+margin: 0 0 10px; 
+}
+
+h2 
+{ 
+text-align: center;
+color:#000;
+margin-top:175px;
+font-weight: normal; 
+font-size: 2.6em; 
+padding: 0 0 10px; 
+ 
+}
+
+h3 
+{ 
+font-size: 1.7em; 
+font-weight: normal; 
+margin: 0 0 20px; 
+}
+
+h3 a 
+{ 
+color: #222; 
+}
+	
+#content 
+{ 
+width: 75%;
+margin: 40px auto; 
+}
+
+#menu 
+{ 
+float: left; 
+margin: 0% 1% 1% 13%; 
+width: 100%;
+}
+
+#menu li 
+{ 
+background: #FFDEAD;
+-webkit-border-bottom-left-radius:10px;
+-webkit-border-bottom-right-radius: 10px;
+-webkit-border-top-left-radius: 10px;
+-webkit-border-top-right-radius: 10px;
+float: left; 
+display: inline; 
+list-style: none; 
+font-size:25px;
+margin: 0% 2% 0% 0%;
+}
+#menu li a 
+{ 
+float: left;
+background-size: auto;
+color: #000; 
+}
+
+#menu li a:hover 
+{ 
+color: #000; 
+}
+
+.post 
+{ 
+background: url(http://fonforsite.ru/_ph/27/2/195109478.jpg?1487099035);
+-webkit-border-bottom-left-radius:14px;
+-webkit-border-bottom-right-radius: 14px;
+-webkit-border-top-left-radius: 14px;
+-webkit-border-top-right-radius: 14px;
+clear: both; 
+padding: 30px 90px; 
+border-top: 2px solid #7B8476; 
+border-bottom: 2px solid #7B8476; 
+margin: 40px 40px 40px 40px; 
+}
+
+.body 
+{ 
+float: center; 
+width: 100%; 
+padding: 0 0 0 30px; 
+}
+	
+.body p
+{
+	text-align:center;
+	font-size:15px;
+	color:#000;
+}
+
+.image
+{
+	float: center;
+}
+	
+.col 
+{ 
+background: url(http://fonforsite.ru/_ph/27/2/195109478.jpg?1487099035);
+-webkit-border-bottom-left-radius:14px;
+-webkit-border-bottom-right-radius: 14px;
+-webkit-border-top-left-radius: 14px;
+-webkit-border-top-right-radius: 14px;
+width: 240px; 
+margin: 0px 40px 30px 50px; 
+float: left; 
+font-size: .9em; 
+color: #000;
+}
+		
+#footer 
+{ 
+clear: both; 
+border-top: 2px solid #7B8476; 
+padding: 10px 0; 
+font-size: .9em; 
+color: #000000; 
+}
